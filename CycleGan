@@ -1,0 +1,2 @@
+def brutal(x):
+  return x
